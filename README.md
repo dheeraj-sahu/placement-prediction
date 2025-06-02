@@ -1,2 +1,2 @@
 ## Render
-# https://placement-prediction-dheeraj.onrender.com/predict
+# https://placement-prediction-dheeraj.onrender.com
